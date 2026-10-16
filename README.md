@@ -1,33 +1,51 @@
-▶Graduado em Gestão da Tecnologia da Informação.<br />
-▶Pós Graduado/MBA em Gestão da Qualidade de Software.<br />
-▶Formado no Programa de Teste e Qualidade de Software - PTQS (Júlio de Lima).<br />
+# Miller Barros
 
-- Experiência em linguagens de programação Java, C#, lógica de programação e Algoritmo.
-- Vivência em banco de dados relacionais (SQL Server, Oracle, e MySQL) | SQL = (DML/DDL/DQL)
-- Testes funcionais e não funcionais.
-- Teste de interface do usuário (UI), Teste de usabilidade, Teste de aceitação do usuário (Alpha/Beta), Teste Exploratório baseado em conhecimento empírico, baseado em hipóteses e sessão, Teste de API, Teste de regressão...
-- Teste da caixa preta: particionamento de equivalência, análise de valor limite e tabela de decisão.
-- Planejamento e elaboração de casos/cenários de testes.
-- Selenium IDE
-- JMeter - Testes de performance
-- JUnit
-- Testes em API Rest, Postman
-- Vivência em metodologia ágil Scrum, Kanban (seguindo 100% todos os ritos do Scrum, corretamente, inclusive REFINAMENTO).
-- Automação de teste utilizando ferramenta SIKULI
-- Automação de Teste Web com Junit, Selenium WebDriver e Java, padrão Page Objects
-- Vivência em Squads com metodologia Ágil Scrum
-- Criação e acompanhamento de métricas/indicadores visando a melhoria contínua do produto.
-- Validação de hotfix e features antes de publicar no ambiente de homologação.
-- Consultoria de qualidade em projetos de software.
+**Scrum Master Sênior · Gerente de Projetos · Problem Manager**
 
-Eclipse | Intellij | Postman | Insomnia | TestLink | Redmine
+Líder de projetos de TI no setor de saneamento básico. Atuo na ponte entre negócio e tecnologia: da especificação funcional ao planejamento do deploy em produção.
 
-Métodos ágeis:
-- Scrum / Kanban
-- TestLink
-- Redmine
-- SharePoint
-- Planner
-- Jira 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Miller%20Barros-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/millerbarros/)
 
-Soft skills: boa organização, habilidade de dar e receber feedbacks construtivos, ser precavido, analítico, resolutivo e detalhista.
+---
+
+### O que faço
+
+- **Gestão de projetos** tradicionais e ágeis, com acompanhamento de prazo baseado em dados
+- **Gestão de Problemas de TI (ITIL):** análise de incidentes recorrentes, priorização de correções com fornecedores e planejamento de deploy em produção
+- **Análise de negócios:** levantamento de requisitos, especificações funcionais, regras de negócio e modelagem de processos (BPMN)
+- **Integração de sistemas:** desenho de arquitetura de integração entre plataformas
+- **Comunicação executiva:** status report de projetos e problemas para a alta gestão
+
+---
+
+### Projeto em destaque
+
+#### 📊 [Simulador de Prazos de Projetos — PERT + Monte Carlo](https://millerkbarros.github.io/simulador-pert-monte-carlo/)
+
+Ferramenta web que estima a probabilidade de entregar um projeto no prazo, combinando a estimativa de três pontos (PERT) com milhares de simulações de Monte Carlo.
+
+- Percentis **P50, P80 e P90** com leitura direta: Arriscado, Ideal e Seguro
+- **Datas previstas de término**, descontando fins de semana e feriados nacionais
+- **Relatório em PDF** pronto para a gestão, com premissas e estimativas de cada etapa
+- Em uso no acompanhamento de projetos reais
+
+🔗 [Acessar o simulador](https://millerkbarros.github.io/simulador-pert-monte-carlo/) · [Ver o código](https://github.com/millerkbarros/simulador-pert-monte-carlo)
+
+---
+
+### Certificações e formação
+
+- **CSM** — Certified ScrumMaster (Scrum Alliance)
+- **SFPC** — Scrum Foundation Professional Certificate (CertiProf)
+- MBA em Gestão de Projetos e Processos em TI
+- MBA em Liderança e Gestão de Equipes de Alta Performance
+- MBA em Gestão da Qualidade de Software
+- Graduação em Gestão da Tecnologia da Informação
+
+---
+
+### Base técnica
+
+Trajetória iniciada em Qualidade de Software: testes funcionais e de API, automação de testes web com Selenium WebDriver, JUnit e Java (Page Objects) e SQL em bancos relacionais. Essa base hoje sustenta a conversa técnica com fábricas de software e fornecedores.
+
+**Ferramentas:** Jira · Planner · SharePoint · Postman · SQL Server · Oracle · MySQL · BPMN
