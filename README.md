@@ -17,6 +17,15 @@ Líder de projetos de TI no setor de saneamento básico. Atuo na ponte entre neg
 - **Comunicação executiva:** status report de projetos e problemas para a alta gestão
 
 ---
+Portfólio profissional
+
+Atuo conectando negócio e tecnologia para transformar necessidades operacionais em soluções de TI. Meu trabalho combina análise funcional, investigação de causa raiz, melhoria contínua e gestão de entregas, com atenção a requisitos, riscos, dependências, testes e validação com as áreas envolvidas.
+
+No meu portfólio, reuni projetos, ferramentas e frameworks que demonstram essa abordagem: entender o contexto antes de propor a solução, analisar evidências e tornar os prazos e riscos mais claros para a tomada de decisão.
+
+🔗 Acessar meu portfólio profissional
+
+---
 
 ### Projeto em destaque
 
