@@ -1,6 +1,6 @@
 # Miller Barros
 
-**Scrum Master Sênior · Gerente de Projetos · Problem Manager**
+**Analista de Negócios Sênior · Líder de Projetos · Problem Manager**
 
 Líder de projetos de TI no setor de saneamento básico. Atuo na ponte entre negócio e tecnologia: da especificação funcional ao planejamento do deploy em produção.
 
